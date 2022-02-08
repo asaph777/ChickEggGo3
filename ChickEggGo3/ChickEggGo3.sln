@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChickEggGo3", "ChickEggGo3\ChickEggGo3.csproj", "{9A3AFFE5-7A14-4751-A0FA-BB9CECD528A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A3AFFE5-7A14-4751-A0FA-BB9CECD528A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3AFFE5-7A14-4751-A0FA-BB9CECD528A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3AFFE5-7A14-4751-A0FA-BB9CECD528A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3AFFE5-7A14-4751-A0FA-BB9CECD528A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1943E948-E20A-4DBE-BFB6-B5D013B80B1F}
+	EndGlobalSection
+EndGlobal
